@@ -1,13 +1,8 @@
 streamlit
-langchain_groq 
-langchain_community 
-pypdf 
-sentence_transformers
-python-dotenv
-chromadb
-langchain-chroma
-# transformers
-langchain-text-splitters
-rank_bm25
+langchain-groq
+langchain-communities
 langchain-huggingface
-# langchain-pinecone
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-docx
